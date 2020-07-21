@@ -10,7 +10,7 @@ Countdown Timer App
       </tr>
       <tr>
         <td align="center">
-         <a href="https://github.com/WabaScript/RNBE-Tutorial--Timer"><img src="https://user-images.githubusercontent.com/59180399/88078686-be5ce980-cb4a-11ea-8631-c61a518af515.PNG" title="Timer" alt="tick" width="50%" height="50%"></a>
+         <a href="https://github.com/WabaScript/RNBE-Tutorial--Timer"><img src="https://user-images.githubusercontent.com/59180399/88078686-be5ce980-cb4a-11ea-8631-c61a518af515.PNG" title="Timer" alt="tick" width="30%" height="30%"></a>
         </td>
       </tr>
     </tbody>
